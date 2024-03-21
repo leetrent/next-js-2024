@@ -3,6 +3,9 @@ import Hero from '@/components/hero';
 
 export default function PerformancePage() {
     return (
-        <Hero imgData={performanceImg} imgAlt='not sure' title="Performance" />
+        <Hero 
+            imgData={performanceImg} 
+            imgAlt='Performance Background Image' 
+            title="Performance" />
     );
 }

@@ -1,3 +1,11 @@
+import reliabilityImg from '/public/reliability.jpg';
+import Hero from '@/components/hero';
+
 export default function ReliablityPage() {
-    return <div>Reliablity Page!</div>
+    return (
+        <Hero
+            imgData={reliabilityImg} 
+            imgAlt='Reliablity Background Image' 
+            title="Reliablity" />
+    );
 }
