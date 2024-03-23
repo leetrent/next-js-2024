@@ -1,0 +1,33 @@
+npx vercel
+
+$ npx vercel
+(node:17312) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Vercel CLI 21.0.1
+? Set up and deploy “~\Dev\Learning\Udemy\StephenGrider\Next.js\Repo\next-js-202                               Y
+? Set up and deploy “~\Dev\Learning\Udemy\StephenGrider\Next.js\Repo\next-js-202
+4\projects\corporation”? [Y/n] y
+? Which scope do you want to deploy to?
+? Which scope do you want to deploy to? leetrent
+? Link to existing project? [y/N] n
+? Link to existing project? [y/N] n
+? What’s your project’s name? (corporation)
+? What’s your project’s name? corporation
+? In which directory is your code located? ./
+? In which directory is your code located? ./
+- Setting up project
+Auto-detected Project Settings (Next.js):
+- Build Command: next build
+- Output Directory: Next.js default
+- Development Command: next dev --port $PORT
+? Want to override the settings? [y/N] N
+? Want to override the settings? [y/N] n
+- Deploying leetrent/corporation
+Linked to leetrent/corporation (created .vercel and added it to .gitignore)
+Inspect: https://vercel.com/leetrent/corporation-k3hsxkt17-leetrents/projects [2s]
+https://corporation-k3hsxkt17-leetrents-projects.vercel.app- Queued
+- Building
+Production: https://corporation-six-brown.vercel.app [copied to clipboard] [58s]
+Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+To change the domain or build command, go to https://vercel.com/leetrents-projects/corporation/settings
+
