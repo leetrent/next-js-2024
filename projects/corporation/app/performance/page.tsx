@@ -5,7 +5,7 @@ export default function PerformancePage() {
     return (
         <Hero 
             imgData={performanceImg} 
-            imgAlt='Performance Background Image' 
-            title="Performance" />
+            imgAlt='Image of welding taking place' 
+            title="We serve high performance applications" />
     );
 }

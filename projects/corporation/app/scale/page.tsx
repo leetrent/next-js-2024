@@ -5,7 +5,7 @@ export default function ScalePage() {
     return (
         <Hero 
             imgData={scaleImg} 
-            imgAlt='Scale Background Image' 
-            title="Scale" />
+            imgAlt='Image of steel factory' 
+            title="Scale your app to infinity" />
     );
 }

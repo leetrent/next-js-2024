@@ -5,7 +5,7 @@ export default function ReliablityPage() {
     return (
         <Hero
             imgData={reliabilityImg} 
-            imgAlt='Reliablity Background Image' 
-            title="Reliablity" />
+            imgAlt='Image of welding taking place' 
+            title="Super high reliablity hosting" />
     );
 }
